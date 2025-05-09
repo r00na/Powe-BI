@@ -38,7 +38,7 @@ This Power BI project includes two main interactive dashboards that visualize Jo
 
 
 ### 🛠️ Tools Used
-
+* **Data Source:** United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024: Standard Projections. Retrieved from https://population.un.org/wpp
 * **Power BI Desktop**
 * **Forecasting & DAX Formulas**
 
