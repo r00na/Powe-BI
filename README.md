@@ -26,15 +26,14 @@ This Power BI project includes two main interactive dashboards that visualize Jo
 * Gender-based death count comparison
 
 
-### 🖼️ Visual Previews
+## 🖼️ Dashboard Previews
 
-#### Population Comparison (2024 vs 2025)
+### Page 1: Population Analysis (2024–2025)
+![Page 1](images/Page1.jpeg)
 
-![Population Overview](images/population_2024_2025.png)
+### Page 2: Future Forecast (2026–2035)
+![Page 2](images/Page2.jpeg)
 
-#### Future Population Forecast (2026–2035)
-
-![Future Forecast](images/population_forecast_2026_2035.png)
 
 
 ### 🛠️ Tools Used
